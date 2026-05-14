@@ -54,9 +54,6 @@ $ curl -s https://github.com/GhostStx
 $ curl -s https://t.me/theattackcorebase
 ---> (Canal de Veille Cyber)
 ```
-
-[![GitHub](https://img.shields.io/badge/GitHub-GhostStx-181717?style=flat-square&logo=github)](https://github.com/GhostStx)
-
 ---
 
 ```
